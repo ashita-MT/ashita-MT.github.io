@@ -6,7 +6,7 @@
 name: "MT blog"
 # Short bio or description (displayed in the header)
 description: "明天的工具箱"
-
+<span id="htmer_time" style="color: red;"></span>
 #
 # Flags below are optional
 #
