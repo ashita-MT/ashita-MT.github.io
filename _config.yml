@@ -29,8 +29,6 @@ navigation:
   - name: 标签
     url: /tags
 
-<span id="htmer_time" style="color: red;"></span>
-
 # Pagination
 paginate: 8
 
