@@ -70,8 +70,6 @@ layout: default
     setInterval(setTime, 1000);
 </script></span>
   
-  
-
   <div class="entry">
     {{ content }}
   </div>
@@ -79,6 +77,8 @@ layout: default
   {% include disqus.html %}
   {% include gitalk.html %}
 </article>
+
+<span id="htmer_time" style="color: red;"></span>
 
 <div class="pagination">
   {% if page.previous.url %}
@@ -95,7 +95,4 @@ layout: default
       </a>
     </span>
   {% endif %}
-
-<span id="htmer_time" style="color: red;"></span>
-  
 </div>
