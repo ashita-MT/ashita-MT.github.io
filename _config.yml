@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+<span id="htmer_time" style="color: red;"></span>
 # Name of your site (displayed in the header)
 name: "MT blog"
 # Short bio or description (displayed in the header)
