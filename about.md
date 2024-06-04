@@ -9,4 +9,8 @@ permalink: /about/
 
 如果觉得我做的不错，可以[**去爱发电支持我一下。**](https://afdian.net/a/ashita)
 
+有相关游戏理解交流可以来我的QQ群:
+
+崩坏：星穹铁道群[**748457424**](https://qm.qq.com/q/HUx2MeXLy4)
+
 🙏🏻感谢🙏🏻
